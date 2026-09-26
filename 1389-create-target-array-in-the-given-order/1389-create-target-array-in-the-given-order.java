@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<index.length;i++){
             int indexValue = index[i];
           
-                for(int j = i;j>indexValue;j--){
+                for(int j = target.length-1;j>indexValue;j--){
                     target[j] = target[j-1];
                 }
             
