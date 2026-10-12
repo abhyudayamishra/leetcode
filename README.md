@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhyudayamishra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhyudayamishra/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/abhyudayamishra/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/abhyudayamishra/leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhyudayamishra/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhyudayamishra/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhyudayamishra/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/abhyudayamishra/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhyudayamishra/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -78,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhyudayamishra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhyudayamishra/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/abhyudayamishra/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhyudayamishra/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/abhyudayamishra/leetcode/tree/master/1095-find-in-mountain-array) |
