@@ -1,18 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int missing=-1;
-        Arrays.sort(nums);
+        int n = nums.length;
+        int expectedSum = n*(n+1)/2;
+        int ArraySum=0;
         for(int i=0;i<nums.length;i++){
-            if(i!=nums[i]){
-            missing=i;
-            break;
-            }
+            ArraySum = ArraySum+nums[i];
         }
-        if(missing==-1){
-            return nums.length;
-        }
-        else{
-            return missing;
-        }
+        int Missing = expectedSum - ArraySum;
+        return Missing;
     }
 }
