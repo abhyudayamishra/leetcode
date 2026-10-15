@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhyudayamishra/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhyudayamishra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhyudayamishra/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/abhyudayamishra/leetcode/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhyudayamishra/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhyudayamishra/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/abhyudayamishra/leetcode/tree/master/1095-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/abhyudayamishra/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
