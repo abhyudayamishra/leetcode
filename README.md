@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhyudayamishra/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/abhyudayamishra/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhyudayamishra/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhyudayamishra/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/abhyudayamishra/leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abhyudayamishra/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/abhyudayamishra/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhyudayamishra/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhyudayamishra/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhyudayamishra/leetcode/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
