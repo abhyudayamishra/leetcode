@@ -9,10 +9,7 @@ class Solution {
             }
             else{
               one = 0;
-            }
-            
-
-            
+            }   
         }
         return maxi;
     }
