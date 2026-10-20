@@ -1,5 +1,6 @@
 class Solution {
     public int sum(int n, int m) {
-        return n+m;
+        int p = n+m;
+        return p;
     }
 }
