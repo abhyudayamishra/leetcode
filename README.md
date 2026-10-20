@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/abhyudayamishra/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/abhyudayamishra/leetcode/tree/master/2235-add-two-integers) |
 ## Counting
 |  |
 | ------- |
