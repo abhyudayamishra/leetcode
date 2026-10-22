@@ -1,21 +1,47 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-       List<Integer> ans = new ArrayList<>();
-       for(int i =0;i<nums.length;i++){
-        int count = 0;
-        for(int j =i;j<nums.length;j++){
-            if(nums[i] == nums[j]){
-                count++;
+        // code here
+        ArrayList<Integer> ans = new ArrayList<>();
+        int el1 =Integer.MIN_VALUE,count1=0;
+        int el2 =Integer.MIN_VALUE,count2=0;
+        for(int i =0;i<nums.length;i++){
+            if(count1 == 0 && nums[i]!=el2){
+                el1 = nums[i];
+                count1++;
+            }else if(count2 == 0 && nums[i]!=el1){
+                el2 = nums[i];
+                count2++;
+            }else if(nums[i] == el1){
+                count1++;
+            }else if(nums[i] == el2){
+                count2++;
+            }else{
+                count1--;
+                count2--;
             }
         }
-        boolean contain = false;
-        if(ans.contains(nums[i])){
-            contain = true;
+        count1 = 0;count2=0; 
+        for(int i =0;i<nums.length;i++){
+            if(nums[i] == el1){
+                count1++;
+            }
         }
-        if(count>nums.length/3 && contain == false){
-            ans.add(nums[i]);
+        for(int i =0;i<nums.length;i++){
+            if(nums[i] == el2){
+                count2++;
+            }
         }
-       }
-       return ans; 
+        if(count1>nums.length/3){
+            ans.add(el1);
+        }
+        if(count2>nums.length/3 && el1!= el2){
+            ans.add(el2);
+        }
+        if(ans.size()==2 && ans.get(0)>ans.get(1)){
+            int temp = ans.get(0);
+            ans.set(0 , ans.get(1));
+            ans.set(1, temp);
+        }
+        return ans;
     }
 }
