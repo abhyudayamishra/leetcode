@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhyudayamishra/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/abhyudayamishra/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/abhyudayamishra/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhyudayamishra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhyudayamishra/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhyudayamishra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhyudayamishra/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhyudayamishra/leetcode/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhyudayamishra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
