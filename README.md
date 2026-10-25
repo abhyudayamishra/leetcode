@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/abhyudayamishra/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhyudayamishra/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhyudayamishra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/abhyudayamishra/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhyudayamishra/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhyudayamishra/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhyudayamishra/leetcode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhyudayamishra/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhyudayamishra/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhyudayamishra/leetcode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/abhyudayamishra/leetcode/tree/master/1572-matrix-diagonal-sum) |
