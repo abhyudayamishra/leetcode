@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhyudayamishra/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhyudayamishra/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/abhyudayamishra/leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhyudayamishra/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhyudayamishra/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/abhyudayamishra/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhyudayamishra/leetcode/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhyudayamishra/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/abhyudayamishra/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhyudayamishra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhyudayamishra/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhyudayamishra/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhyudayamishra/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/abhyudayamishra/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhyudayamishra/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhyudayamishra/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhyudayamishra/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhyudayamishra/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
 |  |
 | ------- |
