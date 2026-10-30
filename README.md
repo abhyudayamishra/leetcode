@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhyudayamishra/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhyudayamishra/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/abhyudayamishra/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/abhyudayamishra/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/abhyudayamishra/leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhyudayamishra/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abhyudayamishra/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/abhyudayamishra/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhyudayamishra/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhyudayamishra/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhyudayamishra/leetcode/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/abhyudayamishra/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
